@@ -1,0 +1,58 @@
+html {
+    position: relative;
+}
+
+.jumbotron {
+    position: relative;
+    background: #000 url("bgkayucoklat.jpg") center center;
+    width: 100%;
+    height: 480px;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.jumbotron img {
+    width: 250px;
+    border: 5px solid #333;
+}
+
+.jumbotron .katajumbo {
+    color: aqua;
+    text-align: top;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+    background-color: chocolate;
+}
+
+
+hr {
+    width: 250px;
+    border: 5px solid rgb(139, 51, 0);
+}
+
+footer {
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    height: 40px;
+    background-color: #333;
+    padding-top: 30px;
+}
+
+footer p {
+    color: aqua;
+}
+
+footer p .copy {
+    color: white;
+}
+
+.footer {
+    width: 100%;
+    margin: auto;
+    background-color: #333;
+}
+
